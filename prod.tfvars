@@ -1,0 +1,6 @@
+"vpc_id" = " " 
+"environment" = "prod"
+"route53_internal_zone_id" = " "
+"key_name" = " "
+"ssh_key_name" = " "
+"iam_instance_profile" = "ProdAccess" 
